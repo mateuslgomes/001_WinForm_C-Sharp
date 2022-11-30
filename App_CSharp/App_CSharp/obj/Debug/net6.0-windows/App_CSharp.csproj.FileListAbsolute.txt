@@ -1,0 +1,17 @@
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\bin\Debug\net6.0-windows\App_CSharp.exe
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\bin\Debug\net6.0-windows\App_CSharp.deps.json
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\bin\Debug\net6.0-windows\App_CSharp.runtimeconfig.json
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\bin\Debug\net6.0-windows\App_CSharp.dll
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\bin\Debug\net6.0-windows\App_CSharp.pdb
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\App_CSharp.csproj.AssemblyReference.cache
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\App_CSharp.Form1.resources
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\App_CSharp.csproj.GenerateResource.cache
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\App_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\App_CSharp.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\App_CSharp.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\App_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\App_CSharp.dll
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\refint\App_CSharp.dll
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\App_CSharp.pdb
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\App_CSharp.genruntimeconfig.cache
+C:\Users\Mateus\source\repos\App_CSharp\App_CSharp\obj\Debug\net6.0-windows\ref\App_CSharp.dll
